@@ -6,6 +6,8 @@ https://www.thingiverse.com/thing:1278865
 
 Then want to know you are printing at the right temperature with a temperature tower
 
+https://www.youtube.com/watch?v=_PNEjuiiqhg&t=13s
+
 https://3dprintscape.com/temperature-tower-cura/
 https://www.thingiverse.com/thing:2493504/comments
 https://www.thingiverse.com/thing:2729076/files
