@@ -22,6 +22,7 @@ https://www.thingiverse.com/thing:2806295
 
 Troubleshooting
 https://www.simplify3d.com/support/print-quality-troubleshooting/
+https://all3dp.com/2/how-to-calibrate-a-3d-printer-simply-explained/
 
 
 
