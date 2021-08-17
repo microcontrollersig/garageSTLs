@@ -10,6 +10,7 @@ https://3dprintscape.com/temperature-tower-cura/
 https://www.thingiverse.com/thing:2493504/comments
 https://www.thingiverse.com/thing:2729076/files
 https://www.thingiverse.com/thing:915435/comments
+https://github.com/Biorn1950/cura-temp-tower-script
 
 Stringing
 https://www.thingiverse.com/thing:1028352/comments
