@@ -17,3 +17,10 @@ Downloadable Link - https://raw.githubusercontent.com/microcontrollersig/garageS
 View Online - https://github.com/microcontrollersig/garageSTLs/blob/master/energy-meter/PCB_PCB%20Design%20V1.00%2018-09-2023_2023-09-29-full.pdf
 
 Downloadable link - https://raw.githubusercontent.com/microcontrollersig/garageSTLs/master/energy-meter/PCB_PCB%20Design%20V1.00%2018-09-2023_2023-09-29-full.pdf
+
+### BOM
+
+View Online (doesn't show all fields) - https://github.com/microcontrollersig/garageSTLs/blob/master/energy-meter/BOM_6%20Channel%20Energy%20Monitor%2017-09-2023%20Finished_2023-09-29.csv
+
+Downloadable link (right click, save as) - https://raw.githubusercontent.com/microcontrollersig/garageSTLs/master/energy-meter/BOM_6%20Channel%20Energy%20Monitor%2017-09-2023%20Finished_2023-09-29.csv
+
