@@ -10,7 +10,7 @@ https://github.com/CircuitSetup/Expandable-6-Channel-ESP32-Energy-Meter
 
 View Online - https://github.com/microcontrollersig/garageSTLs/blob/master/energy-meter/Schematic_6%20Channel%20Energy%20Monitor%2017-09-2023%20Finished_2023-09-25.pdf
 
-Downloadable Link https://raw.githubusercontent.com/microcontrollersig/garageSTLs/master/energy-meter/Schematic_6%20Channel%20Energy%20Monitor%2017-09-2023%20Finished_2023-09-25.pdf
+Downloadable Link - https://raw.githubusercontent.com/microcontrollersig/garageSTLs/master/energy-meter/Schematic_6%20Channel%20Energy%20Monitor%2017-09-2023%20Finished_2023-09-25.pdf
 
 ### PCB (PDF Only)
 
