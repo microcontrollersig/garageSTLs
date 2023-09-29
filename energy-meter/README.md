@@ -14,6 +14,6 @@ Downloadable Link https://raw.githubusercontent.com/microcontrollersig/garageSTL
 
 ### PCB (PDF Only)
 
-View Online - [https://github.com/microcontrollersig/garageSTLs/blob/master/energy-meter/PCB_PCB%20Design%20V1.00%2018-09-2023_2023-09-25%20(1).pdf](https://github.com/microcontrollersig/garageSTLs/blob/master/energy-meter/PCB_PCB%20Design%20V1.00%2018-09-2023_2023-09-29-full.pdf)
+View Online - https://github.com/microcontrollersig/garageSTLs/blob/master/energy-meter/PCB_PCB%20Design%20V1.00%2018-09-2023_2023-09-29-full.pdf
 
-Downloadable link - [https://raw.githubusercontent.com/microcontrollersig/garageSTLs/master/energy-meter/PCB_PCB%20Design%20V1.00%2018-09-2023_2023-09-25%20(1).pdf](https://raw.githubusercontent.com/microcontrollersig/garageSTLs/master/energy-meter/PCB_PCB%20Design%20V1.00%2018-09-2023_2023-09-29-full.pdf)https://raw.githubusercontent.com/microcontrollersig/garageSTLs/master/energy-meter/PCB_PCB%20Design%20V1.00%2018-09-2023_2023-09-29-full.pdf
+Downloadable link - https://raw.githubusercontent.com/microcontrollersig/garageSTLs/master/energy-meter/PCB_PCB%20Design%20V1.00%2018-09-2023_2023-09-29-full.pdf
