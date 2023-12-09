@@ -8,9 +8,9 @@ https://github.com/CircuitSetup/Expandable-6-Channel-ESP32-Energy-Meter
 
 ### Schematic (PDF only)
 
-View Online - https://github.com/microcontrollersig/garageSTLs/blob/master/energy-meter/Schematic_6%20Channel%20Energy%20Monitor%2017-09-2023%20Finished_2023-09-25.pdf
+View Online - https://github.com/microcontrollersig/garageSTLs/blob/master/energy-meter/Schematic_6%20Channel%20Energy%20Monitor%20v3%2021-11-2023%20new_2023-12-09.pdf
 
-Downloadable Link - https://raw.githubusercontent.com/microcontrollersig/garageSTLs/master/energy-meter/Schematic_6%20Channel%20Energy%20Monitor%2017-09-2023%20Finished_2023-09-25.pdf
+Downloadable Link - https://raw.githubusercontent.com/microcontrollersig/garageSTLs/master/energy-meter/Schematic_6%20Channel%20Energy%20Monitor%20v3%2021-11-2023%20new_2023-12-09.pdf
 
 ### PCB (PDF Only)
 
@@ -20,7 +20,7 @@ Downloadable link - https://raw.githubusercontent.com/microcontrollersig/garageS
 
 ### BOM
 
-View Online (doesn't show all fields) - https://github.com/microcontrollersig/garageSTLs/blob/master/energy-meter/BOM_6%20Channel%20Energy%20Monitor%2017-09-2023%20Finished_2023-09-29.csv
+View Online (doesn't show all fields) - https://github.com/microcontrollersig/garageSTLs/blob/master/energy-meter/BOM.csv
 
-Downloadable link (right click, save as) - https://raw.githubusercontent.com/microcontrollersig/garageSTLs/master/energy-meter/BOM_6%20Channel%20Energy%20Monitor%2017-09-2023%20Finished_2023-09-29.csv
+Downloadable link (right click, save as) - https://raw.githubusercontent.com/microcontrollersig/garageSTLs/master/energy-meter/BOM.csv
 
